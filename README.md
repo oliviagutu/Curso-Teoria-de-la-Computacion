@@ -14,17 +14,20 @@
 
 - **Asesorías**: Estaré disponible todos los días de 14:00 a 15:00 hrs. 
 
-- Textos: **Primer curso en teoría de autómatas y lenguajes formales, 2 ed.**,
+- Textos: 
+1. **Primer curso en teoría de autómatas y lenguajes formales, 2 ed.**,
    *Olivia Gutú*. Este libro está todavía en proceso de escritura, puedes bajar
- lo que llevo escrito [aquí](). La primera edición (2014) la puedes sacar de la biblioteca y también la puedes comprar en la librería de la universidad. Además, como libro de soporte recomiendo el clásico **Introduction to automata theory, languajes and computation, 3.ª ed**.
-*Hopcroft, J. E.; Motwani, R. y Ullman, J.*, Pearson/Addison Wesley (2007)
+ lo que llevo escrito [aquí](). La primera edición (2014) la puedes sacar de la biblioteca y también la puedes comprar en la librería de la universidad. 
+ 
+2. **Introduction to automata theory, languajes and computation, 3.ª ed**.
+*Hopcroft, J. E.; Motwani, R. y Ullman, J.*, Pearson/Addison Wesley (2007). Este es un libro clásico de soporte y consulta.
 
 
 # Contenido de la materia
 
 -Alfabetos, cadenas y lenguajes
-    * Alfabetos y cadenas
-    * Lenguajes
+    : Alfabetos y cadenas
+    : Lenguajes
     
 -Autómatas finitos deterministas
     Definición de autómata finito determinista
