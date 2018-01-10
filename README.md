@@ -25,45 +25,45 @@
 
 # Contenido de la materia
 
--Alfabetos, cadenas y lenguajes
+- Alfabetos, cadenas y lenguajes
     : Alfabetos y cadenas
     : Lenguajes
     
--Autómatas finitos deterministas
+- Autómatas finitos deterministas
     Definición de autómata finito determinista
     Lenguaje de un autómata finito determinista
     *Minimización del número de estados
     
--Autómatas finitos no-deterministas
+- Autómatas finitos no-deterministas
     Definición de autómata finito no-determinista
     Autómatas con transiciones instantáneas
     Caracterización de los autómatas finitos
     
--Lenguajes regulares
+- Lenguajes regulares
     Definción de expresión y lenguaje regular
     De autómatas finitos a expresiones regulares
     De expresiones regulares a autómatas finitos
     Lema de bombeo para lenguajes regulares
     
--Autómatas a pila
+- Autómatas a pila
     Definición de autómata a pila
     Descripciones instantáneas
     Aceptación por estado final y por pila vacía
     Autómatas a pila deterministas
     
--Gramáticas libres de contexto
+- Gramáticas libres de contexto
     Definición de gramática
     Lenguaje aceptado por una gramática
    Árboles de derivación y ambigüedad
    
--Lenguajes libres de contexto
+- Lenguajes libres de contexto
     De gramáticas a autómatas a pila
     De autómatas a pila a gramáticas
     Lema de bombeo para lenguajes libres de contexto
     Propiedades de los lenguajes libres de contexto
     Algoritmo CYK
     
--Máquinas de Turing
+- Máquinas de Turing
     Definición y movimientos de una máquina de Turing
     La máquina de Turing como algoritmo
     La máquina de Turing como cadena binaria
