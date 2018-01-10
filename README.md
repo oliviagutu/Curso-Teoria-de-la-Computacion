@@ -23,8 +23,8 @@
 # Contenido de la materia
 
 -Alfabetos, cadenas y lenguajes
-    Alfabetos y cadenas
-    Lenguajes
+    * Alfabetos y cadenas
+    * Lenguajes
     
 -Autómatas finitos deterministas
     Definición de autómata finito determinista
@@ -81,7 +81,7 @@ Foro de preguntas y respuestas en teoría de la computación
 [Stackexchange](http://cs.stackexchange.com/)
 
 Un simulador de autómatas y máquinas de Turing
-[Automatasimulator(]http://automatonsimulator.com/)
+[Automatasimulator](http://automatonsimulator.com/)
 [Jflap](http://www.jflap.org/tutorial/pda/construct/)
 [Morphett](http://morphett.info/turing/turing.html)
 
