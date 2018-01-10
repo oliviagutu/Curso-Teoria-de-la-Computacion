@@ -5,8 +5,7 @@
 <div style="text-align:center"><img src="ia.png" width="250"></div>
 
 
-
->!
+>
 # Información General
 
 - **Profesor**: [Olivia Gutú](http://mat.uson.mx/~oliviagutu/)
