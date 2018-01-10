@@ -1,24 +1,24 @@
+<!
+
+
+
 <div style="text-align:center"><img src="ia.png" width="250"></div>
 
+
+
+>!
 # Información General
 
-- **Profesor**: [Julio Waissman Vilanova](http://mat.uson.mx/~juliowaissman/)
+- **Profesor**: [Olivia Gutú](http://mat.uson.mx/~oliviagutu/)
 
-- **Localización**: Cubículo 1, edificio 3K-4
+- **Localización**: Cubículo 2, edificio 3K-4
 
-- **Horario**: Lunes a viernes de 11:00 a 12:00 hrs.
+- **Horario**: Lunes a viernes de 9:00 a 10:00 hrs.
 
 - [**Material de apoyo para el curso**](http://ia-unison.github.io/material/)
 
-- **Lenguage de programación**: Para el curso el lenguaje de programación utilizado es Python.
-  Existen muchos y muy buenos tutoriales de Python en la red.
-  Se asume que los alumnos del curso de Inteligencia Artificial tienen cierto
-  nivel de competencias en programación, y que aprender un nuevo lenguaje
-  no es un problema.
 
-- **Asesorías**: Todas las asesorías individuales presenciales que requieran los
-   alumnos son posibles y deseables. Solamente se les solicita acordar una cita con el
-   profesor, con el fin de encontrar un horario conveniente para ambos.
+- **Asesorías**: Estaré disponible todos los días de 14:00 a 15:00 hrs. 
 
 - Bibliografía: **Inteligencia Artificial Un Enfoque Moderno, 2 ed.**,
    *Stuart Russell y Peter Norvig* (Pearson Educación). De preferencia usar la
