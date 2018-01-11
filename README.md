@@ -3,7 +3,7 @@
 
 # Información General
 
-- **Profesor**: [Olivia Gutú](http://mat.uson.mx/~oliviagutu/)
+- **Profesor**: [Olivia Gutú](http://cc.uson.mx/cc/index.php?option=com_content&view=article&id=38&Itemid=38)
 
 - **Localización**: Cubículo 2, edificio 3K-4
 
