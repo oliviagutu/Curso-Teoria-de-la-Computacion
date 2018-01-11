@@ -9,8 +9,6 @@
 
 - **Horario**: Lunes a viernes de 9:00 a 10:00 hrs.
 
-- [**Material de apoyo para el curso**](http://ia-unison.github.io/material/)
-
 
 - **Asesorías**: Estaré disponible todos los días de 14:00 a 15:00 hrs. 
 
