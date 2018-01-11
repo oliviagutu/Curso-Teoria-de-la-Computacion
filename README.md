@@ -14,7 +14,7 @@
 
 - Textos: 
     - **Primer curso en teoría de autómatas y lenguajes formales, 2 ed.**, *Olivia Gutú*. Este libro está todavía en proceso de escritura, puedes bajar
- lo que llevo escrito [aquí](). La primera edición (2014) la puedes sacar de la biblioteca y también la puedes comprar en la librería de la universidad. 
+ lo que llevo escrito [aquí](LibroAutomatas2.daEdicion.pdf). La primera edición (2014) la puedes sacar de la biblioteca y también la puedes comprar en la librería de la universidad. 
  
    - **Introduction to automata theory, languajes and computation, 3.ª ed**.
 *Hopcroft, J. E.; Motwani, R. y Ullman, J.*, Pearson/Addison Wesley (2007). Este es un libro clásico de soporte y consulta.
