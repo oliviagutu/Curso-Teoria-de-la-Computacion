@@ -15,8 +15,7 @@
 - **Asesorías**: Estaré disponible todos los días de 14:00 a 15:00 hrs. 
 
 - Textos: 
-    - **Primer curso en teoría de autómatas y lenguajes formales, 2 ed.**,
-   *Olivia Gutú*. Este libro está todavía en proceso de escritura, puedes bajar
+    - **Primer curso en teoría de autómatas y lenguajes formales, 2 ed.**, *Olivia Gutú*. Este libro está todavía en proceso de escritura, puedes bajar
  lo que llevo escrito [aquí](). La primera edición (2014) la puedes sacar de la biblioteca y también la puedes comprar en la librería de la universidad. 
  
    - **Introduction to automata theory, languajes and computation, 3.ª ed**.
