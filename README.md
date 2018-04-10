@@ -117,7 +117,7 @@ La calificación del curso se realiza de la siguiente manera:
     -   Ejercicio 129 ó 130  ★escoger uno
     
     -   Ejercicio 132
-    
+    
     -   Ejercicio 105 de la primera edición del libro de texto (el que está en la biblioteca)
 
 
