@@ -100,15 +100,24 @@ La calificación del curso se realiza de la siguiente manera:
 | 8.1     | Introducción a máquinas de Turing | Mario | 4 de mayo |
 
 #  Examen final
-  - Día: jueves 17 de mayo
-  - Horario: 9:00-12:00 hrs.
-  - Temas: correspondientes a las unidades 1-6. 
-  - El mismo día del examen, entregar los siguientes ejercicios, en hojas blancas y limpias:
-        Ejercicio 118 | 119  ★escoger uno
-        Ejercicio 122
-        Ejercicio 128
-        Ejercicio 129 | 130  ★escoger uno
-        Ejercicio 132
-        Ejercicio 105 de la primera edición del libro de texto (el que está en la biblioteca)
+-   Día: jueves 17 de mayo
+
+-   Horario: 9:00-12:00 hrs.
+  
+-   Temas: correspondientes a las unidades 1-6. 
+  
+-   El mismo día del examen, entregar los siguientes ejercicios, en hojas blancas y limpias:
+       
+    -   Ejercicio 118 | 119  ★escoger uno
+    
+    -   Ejercicio 122
+    
+    -   Ejercicio 128
+    
+    -   Ejercicio 129 | 130  ★escoger uno
+    
+    -   Ejercicio 132
+    
+    -   Ejercicio 105 de la primera edición del libro de texto (el que está en la biblioteca)
 
 
