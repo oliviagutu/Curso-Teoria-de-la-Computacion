@@ -91,4 +91,11 @@ La calificación del curso se realiza de la siguiente manera:
 # Exposiciones
 
 | Sección | Tema | Alumno(s) | Días|
+| ------- | -----| ----------| ---:|
+| 7.1     | De gramáticas a autómatas a pila | Liz | 25 de abril |
+| 7.2     | De autómatas a gramáticas | Ricardo y Juan Carlos | 26 y 27 de abril |
+| 7.3     | Lema de bombeo para lenguajes libres de contexto | Alan | 30 de abril |
+| 7.4     | Propiedades de los lenguajes libres de contexto | Fran | 2 de mayo |
+| 7.5     | Algoritmo de Cocke-Younger-Kasami | Ramón | 3 de mayo |
+| 8.1     | Introducción a máquinas de Turing | Mario | 4 de mayo |
 
