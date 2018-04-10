@@ -114,7 +114,7 @@ La calificación del curso se realiza de la siguiente manera:
     
     -   Ejercicio 128
     
-    -   Ejercicio 129 ó 130  ★escoger uno
+    -   Ejercicio 129 ó 130  ★escoger uno
     
     -   Ejercicio 132
     
