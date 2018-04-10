@@ -107,8 +107,8 @@ La calificación del curso se realiza de la siguiente manera:
 -   Temas: correspondientes a las unidades 1-6. 
   
 -   El mismo día del examen, entregar los siguientes ejercicios, en hojas blancas y limpias:
-       
-    -   Ejercicio 118 ó 119  ★escoger uno
+
+    -   Ejercicio 118 ó 119  ★escoger uno
     
     -   Ejercicio 122
     
