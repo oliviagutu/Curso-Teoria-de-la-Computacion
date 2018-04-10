@@ -85,3 +85,10 @@ La calificación del curso se realiza de la siguiente manera:
 
 - Para dibujar autómatas y en general máquinas de Turing en Latex
    -    [Vacauson](http://vaucanson-project.org/resources/VCManual.pdf)
+   
+## Avisos importantes
+
+# Exposiciones
+
+| Sección | Tema | Alumno(s) | Días|
+
