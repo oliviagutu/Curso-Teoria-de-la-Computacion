@@ -108,13 +108,13 @@ La calificación del curso se realiza de la siguiente manera:
   
 -   El mismo día del examen, entregar los siguientes ejercicios, en hojas blancas y limpias:
        
-    -   Ejercicio 118 | 119  ★escoger uno
+    -   Ejercicio 118 ⎟ 119  ★escoger uno
     
     -   Ejercicio 122
     
     -   Ejercicio 128
     
-    -   Ejercicio 129 | 130  ★escoger uno
+    -   Ejercicio 129 ⎟ 130  ★escoger uno
     
     -   Ejercicio 132
     
