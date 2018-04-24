@@ -92,15 +92,15 @@ La calificación del curso se realiza de la siguiente manera:
 
 | Sección | Tema | Alumno(s) | Días|
 | ------- | -----| ----------| ---:|
-| 7.1     | De gramáticas a autómatas a pila | Liz | 25 de abril |
-| 7.2     | De autómatas a gramáticas | Ricardo y Juan Carlos | 26 y 27 de abril |
-| 7.3     | Lema de bombeo para lenguajes libres de contexto | Alan | 30 de abril |
-| 7.4     | Propiedades de los lenguajes libres de contexto | Fran | 2 de mayo |
-| 7.5     | Algoritmo de Cocke-Younger-Kasami | Ramón | 3 de mayo |
-| 8.1     | Introducción a máquinas de Turing | Mario | 4 de mayo |
+| 7.1     | De gramáticas a autómatas a pila | Liz | 2 de mayo |
+| 7.2     | De autómatas a gramáticas | Ricardo y Juan Carlos | 3 y 4 de mayo |
+| 7.3     | Lema de bombeo para lenguajes libres de contexto | Alan | 7 de mayo|
+| 7.4     | Propiedades de los lenguajes libres de contexto | Fran | 8 de mayo |
+| 7.5     | Algoritmo de Cocke-Younger-Kasami | Ramón | 9 de mayo |
+| 8.1     | Introducción a máquinas de Turing | Mario | 11 de mayo |
 
 #  Examen final
--   Día: jueves 17 de mayo
+-   Día: jueves 21 de mayo
 
 -   Horario: 9:00-12:00 hrs.
   
