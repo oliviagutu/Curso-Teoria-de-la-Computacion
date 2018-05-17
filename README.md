@@ -100,7 +100,7 @@ La calificación del curso se realiza de la siguiente manera:
 | 8.1     | Introducción a máquinas de Turing | Mario | 11 de mayo |
 
 #  Examen final
--   Día: jueves 21 de mayo
+-   Día: jueves 24 de mayo
 
 -   Horario: 9:00-12:00 hrs.
   
