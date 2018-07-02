@@ -86,38 +86,5 @@ La calificación del curso se realiza de la siguiente manera:
 - Para dibujar autómatas y en general máquinas de Turing en Latex
    -    [Vacauson](http://vaucanson-project.org/resources/VCManual.pdf)
    
-## Avisos importantes
-
-# Exposiciones
-
-| Sección | Tema | Alumno(s) | Días|
-| ------- | -----| ----------| ---:|
-| 7.1     | De gramáticas a autómatas a pila | Liz | 2 de mayo |
-| 7.2     | De autómatas a gramáticas | Ricardo y Juan Carlos | 3 y 4 de mayo |
-| 7.3     | Lema de bombeo para lenguajes libres de contexto | Alan | 7 de mayo|
-| 7.4     | Propiedades de los lenguajes libres de contexto | Fran | 8 de mayo |
-| 7.5     | Algoritmo de Cocke-Younger-Kasami | Ramón | 9 de mayo |
-| 8.1     | Introducción a máquinas de Turing | Mario | 11 de mayo |
-
-#  Examen final
--   Día: jueves 24 de mayo
-
--   Horario: 9:00-12:00 hrs.
-  
--   Temas: correspondientes a las unidades 1-6. 
-  
--   El mismo día del examen, entregar los siguientes ejercicios, en hojas blancas y limpias:
-
-    -   Ejercicio 118 ó 119  ★escoger uno
-    
-    -   Ejercicio 122
-    
-    -   Ejercicio 128
-    
-    -   Ejercicio 129 ó 130  ★escoger uno
-    
-    -   Ejercicio 132
-    
-    -   Ejercicio 105 de la primera edición del libro de texto (el que está en la biblioteca)
 
 
