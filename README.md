@@ -9,6 +9,8 @@
 
 - **Horario**: Lunes a viernes de 9:00 a 10:00 hrs.
 
+- **Aula**: 3K4-L202.
+
 
 - **Asesorías**: Estaré disponible todos los días de 14:00 a 15:00 hrs. 
 
