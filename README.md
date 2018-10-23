@@ -91,7 +91,7 @@ Exposiciones:
  
  16 de noviembre [Tequida, Nicol] Sección 7.3
  
- 20 de noviembre [El Romia, El Ema] Sección 7.4
+ 20 de noviembre [El Romi, El Ema] Sección 7.4
  
  21 de noviembre [Doña Fer, Pedro Páramo] Sección 7.5
 
