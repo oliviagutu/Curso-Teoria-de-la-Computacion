@@ -81,14 +81,6 @@ Examen final: 5 de diciembre de 9:00-12:00 hrs. Aula 101
 
 Exposiciones:
 
- 12 de noviembre [Don Cofi, Beto] Apéndice A
- 
- 13 de noviembre [Doña Celeste, Elisabet] Sección 7.1
- 
- 14 de noviembre [Tonso, Cris+] Sección 7.2 primera parte
- 
- 15 de noviembre [Jesús] Sección 7.2 segunda parte
- 
  16 de noviembre [Tequida, Nicol] Sección 7.3
  
  20 de noviembre [El Romi, El Ema] Sección 7.4
