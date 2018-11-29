@@ -79,14 +79,6 @@ La calificación del curso se realiza de la siguiente manera:
 
 Examen final: 5 de diciembre de 9:00-12:00 hrs. Aula 101
 
-Exposiciones:
-
- 16 de noviembre [Tequida, Nicol] Sección 7.3
- 
- 20 de noviembre [El Romi, El Ema] Sección 7.4
- 
- 21 de noviembre [Doña Fer, Pedro Páramo] Sección 7.5
-
 ## Ligas de interés
 
 - Foro de preguntas y respuestas en matemáticas, incluyendo teora de la computación:
