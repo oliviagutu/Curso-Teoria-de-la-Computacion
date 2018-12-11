@@ -20,6 +20,8 @@
    - *Introduction to automata theory, languajes and computation, 3.ª ed*. Hopcroft, J. E.; Motwani, R. y Ullman, J., Pearson/Addison Wesley (2007). Este es un libro clásico de soporte y consulta.
 
 
+[Introducción](Lenguajes.pdf)
+
 # Contenido de la materia
 
 - Alfabetos, cadenas y lenguajes
