@@ -77,9 +77,25 @@ La calificación del curso se realiza de la siguiente manera:
 4. Participación (incluye exposiciones) (20%)
 
 
-# Fechas fin de curso
+# Exposiciones
 
-Examen final: 5 de diciembre de 9:00-12:00 hrs. Aula 101
+7.1. César
+
+7.2. Ximena
+
+7.3. Aldo
+
+7.4 Gerardo
+
+7.5 Francisco
+
+8.1 Marcos y Coffey
+
+8.2 Javier
+
+8.3 Jesús
+
+
 
 ## Ligas de interés
 
