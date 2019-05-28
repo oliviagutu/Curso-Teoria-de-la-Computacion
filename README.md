@@ -20,7 +20,7 @@
    - *Introduction to automata theory, languajes and computation, 3.ª ed*. Hopcroft, J. E.; Motwani, R. y Ullman, J., Pearson/Addison Wesley (2007). Este es un libro clásico de soporte y consulta.
 
 
-[Introducción](Lenguajes.pdf)
+
 
 # Contenido de la materia
 
@@ -75,26 +75,6 @@ La calificación del curso se realiza de la siguiente manera:
 1. Exámenes semanales/quincenales (60%)
 3. Examen final (20%)
 4. Participación (incluye exposiciones) (20%)
-
-
-# Exposiciones
-
-7.1. César
-
-7.2. Ximena
-
-7.3. Aldo
-
-7.4 Gerardo
-
-7.5 Francisco
-
-8.1 Marcos y Coffey
-
-8.2 Javier
-
-8.3 Jesús
-
 
 
 ## Ligas de interés
