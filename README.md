@@ -95,17 +95,13 @@ J. Armando Báez -
 J. Alberto Leyva -
 M. José Vega -
 
-6
-JOSÉ PABLO IBARRA-
-JUAN ANTONIO HERNÁNDEZ COTA-
-JUAN CARLOS ROJAS COFFEY
 
-7
+6
 J. Francisco Almada -
 L. Ángel López -
 M. Ángel Bernal -
 
-8
+7
 O. René Soto -
 Alring Vázquez -
 Brandon Leyva -
