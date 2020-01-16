@@ -9,10 +9,10 @@
 
 - **Horario**: Lunes a viernes de 9:00 a 10:00 hrs.
 
-- **Aula**: 3K4-L202.
+- **Aula**: 3K4-A102.
 
 
-- **Asesorías**: Estaré disponible todos los días de 14:00 a 15:00 hrs. 
+- **Asesorías**: Estaré disponible todos los días de 13:00 a 14:00 hrs. 
 
 - **Textos**: 
     - *Teoría de autómatas y lenguajes formales*, Olivia Gutú. Este libro está todavía en proceso de escritura, puedes bajar lo que llevo escrito [aquí](DocumentoPrincipal.pdf). Un texto previo *Un primer curso en teoría de autómatas y lenguajes formales* (Pearson, 2014) la puedes sacar de la biblioteca y también la puedes comprar en la librería de la universidad. 
@@ -68,43 +68,6 @@
     -    La máquina de Turing como cadena binaria
     -    Problemas decidibles y un poco de filosofía
     
-# Equipos
-
-1
-Alejandra Picos -
-V. Camile Pivac -
-A. Eduardo Solis -
-
-2
-J. Pablo Ibarra -
-J. Carlos Rojas -
-H. Alberto Enguino -
-
-3
-J. Antonio Hernández -
-D. Antonio Quihuis -
-Elisabeth Franco
-
-4
-E. Gilberto Rodríguez -
-H. Francisco Cano -
-D. Laura Ballesteros -
-
-5
-J. Armando Báez -
-J. Alberto Leyva -
-M. José Vega -
-
-
-6
-J. Francisco Almada -
-L. Ángel López -
-M. Ángel Bernal -
-
-7
-O. René Soto -
-Alring Vázquez -
-Brandon Leyva -
 
 # Calificación
 
